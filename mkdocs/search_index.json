@@ -1,0 +1,184 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Introductie\n#\n\n\nBeautiful documentation\n#\n\n\nMaterial is a theme for \nMkDocs\n, an excellent static site generator geared\ntowards project documentation. It is built using Google's \nmaterial design\n\nguidelines, full responsive, optimized for touch and pointer devices as well\nas all sorts of screen sizes.\n\n\n\n\nMaterial is very lightweight \u2013 it is built from scratch using Javascript and\nCSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts\nand Analytics). Yet, it is highly customizable and degrades gracefully in older\nbrowsers.\n\n\nQuick start\n#\n\n\nInstall with \npip\n:\n\n\npip install mkdocs-material\n\n\n\n\nAdd the following line to your \nmkdocs.yml\n:\n\n\ntheme: 'material'\n\n\n\n\nFeatures\n#\n\n\n\n\n\n\nBeautiful, readable and very user-friendly design based on Google's material\n  design guidelines, packed in a full responsive template with a well-defined\n  and \neasily customizable color palette\n, great typography, as well as a\n  beautiful search interface and footer.\n\n\n\n\n\n\nWell-tested and optimized Javascript and CSS including a cross-browser\n  fixed/sticky header, a drawer that even works without Javascript using\n  the \ncheckbox hack\n with fallbacks, responsive tables that scroll when\n  the screen is too small and well-defined print styles.\n\n\n\n\n\n\nExtra configuration options like a \nproject logo\n, links to the authors\n  \nGitHub and Twitter accounts\n, display of the amount of stars the\n  project has on GitHub and \nGoogle Analytics integration\n.\n\n\n\n\n\n\nEasily \nextendable and customizable\n due to a well-designed asset pipeline\n  built on-top of \nGulp\n with \nnpm\n and \nbower\n and modular and abstracted\n  style definitions built with \nSASS\n.\n\n\n\n\n\n\nWeb application capability on iOS \u2013 when the page is saved to the homescreen,\n  it behaves and looks like a native application.\n\n\n\n\n\n\nSee the \ngetting started guide\n for instructions how to get\nit up and running.",
+            "title": "Introductie"
+        },
+        {
+            "location": "/#introductie",
+            "text": "",
+            "title": "Introductie"
+        },
+        {
+            "location": "/#beautiful-documentation",
+            "text": "Material is a theme for  MkDocs , an excellent static site generator geared\ntowards project documentation. It is built using Google's  material design \nguidelines, full responsive, optimized for touch and pointer devices as well\nas all sorts of screen sizes.   Material is very lightweight \u2013 it is built from scratch using Javascript and\nCSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts\nand Analytics). Yet, it is highly customizable and degrades gracefully in older\nbrowsers.",
+            "title": "Beautiful documentation"
+        },
+        {
+            "location": "/#quick-start",
+            "text": "Install with  pip :  pip install mkdocs-material  Add the following line to your  mkdocs.yml :  theme: 'material'",
+            "title": "Quick start"
+        },
+        {
+            "location": "/#features",
+            "text": "Beautiful, readable and very user-friendly design based on Google's material\n  design guidelines, packed in a full responsive template with a well-defined\n  and  easily customizable color palette , great typography, as well as a\n  beautiful search interface and footer.    Well-tested and optimized Javascript and CSS including a cross-browser\n  fixed/sticky header, a drawer that even works without Javascript using\n  the  checkbox hack  with fallbacks, responsive tables that scroll when\n  the screen is too small and well-defined print styles.    Extra configuration options like a  project logo , links to the authors\n   GitHub and Twitter accounts , display of the amount of stars the\n  project has on GitHub and  Google Analytics integration .    Easily  extendable and customizable  due to a well-designed asset pipeline\n  built on-top of  Gulp  with  npm  and  bower  and modular and abstracted\n  style definitions built with  SASS .    Web application capability on iOS \u2013 when the page is saved to the homescreen,\n  it behaves and looks like a native application.    See the  getting started guide  for instructions how to get\nit up and running.",
+            "title": "Features"
+        },
+        {
+            "location": "/getting-started/",
+            "text": "Getting started\n#\n\n\nInstallation\n#\n\n\nInstalling MkDocs\n#\n\n\nBefore installing \nMkDocs\n, you need to make sure you have Python and \npip\n\n\u2013 the Python package manager \u2013 up and running. Assuming you are a developer and\nhave a basic understanding of how things work and what StackOverflow is, we\nwon't provide guidelines on setting those up. You can verify if you're already\ngood to go with the following commands:\n\n\npython --version\n# Python 2.7.2\npip --version\n# pip 1.5.2\n\n\n\n\nInstalling and verifying MkDocs is as simple as:\n\n\npip install mkdocs && mkdocs --version\n# mkdocs, version 0.15.2\n\n\n\n\nInstalling Material\n#\n\n\nNext, assuming you have MkDocs up and running \nmkdocs-material\n can be\ninstalled with \npip\n:\n\n\npip install mkdocs-material\n\n\n\n\nUsage\n#\n\n\nIf you haven't already done it, creating a new documentation project is really\nsimple in MkDocs:\n\n\nmkdocs new my-project\ncd my-project\n\n\n\n\nMkDocs will create the necessary files and base directory structure inside the\nfolder \nmy-project\n. In order to enable the theme just add the following line\nto the auto-generated \nmkdocs.yml\n:\n\n\ntheme: 'material'\n\n\n\n\nIf your project is hosted on GitHub, add the repository link to the\nconfiguration. If the \nrepo_name\n equals \nGitHub\n, the Material theme will\nadd a download and star button, and display the number of stars:\n\n\nrepo_name: 'GitHub'\nrepo_url: 'https://github.com/my-github-handle/my-project'\n\n\n\n\nMkDocs includes a development server, so you can view your changes as you go -\nvery handy. Spin it up with the following command:\n\n\nmkdocs serve\n\n\n\n\nNow you can go to \nlocalhost:8000\n and the Material\ntheme should be visible. You can now start writing your documentation, or read\non and customize the theme through some options.\n\n\nOptions\n#\n\n\nThe Material theme adds some extra variables for configuration via your\nproject's \nmkdocs.yml\n. See the following section for all available options.\n\n\nAdding a version\n#\n\n\nIn order to add the current version next to the project banner inside the\ndrawer, you can set the variable \nextra.version\n:\n\n\nextra:\n  version: '0.1.0'\n\n\n\n\nThis will also change the link behind the download button to point to the\narchive with the respective version on GitHub, assuming a release tagged with\nthis exact version identifier.\n\n\nAdding a logo\n#\n\n\nIf your project has a logo, you can add it to the drawer/navigation by defining\nthe variable \nextra.logo\n. Ideally, the image of your logo should have\nrectangular shape with a minimum resolution of 128x128 and leave some room\ntowards the edges. The logo will also be used as a web application icon on iOS.\nSimply create the folder \ndocs/images\n, add your image and reference it via:\n\n\nextra:\n  logo: 'images/logo.png'\n\n\n\n\nLink to GitHub releases page\n#\n\n\nIf your project has a GitHub url configured, the default behavior is that a\ndownlink button is displayed, linking to the source download of the given\n\nextra.version\n or \nmaster\n branch. To link to the releases page instead,\nset \nextra.github.download_release\n to \ntrue\n. It will link to the release of\nthe given \nextra.version\n or when no \nextra.version\n is given, the latest\nrelease:\n\n\nrepo_name: GitHub\nrepo_url: https://github.com/squidfunk/mkdocs-material\n\nextra:\n  github:\n    download_release: true\n\n\n\n\nChanging the color palette\n#\n\n\nMaterial defines a default hue for every primary and accent color on Google's\nmaterial design \ncolor palette\n. This makes it very easy to change the\noverall look of the theme. Just set the variables \nextra.palette.primary\n and\n\nextra.palette.accent\n to one of the colors defined in the palette:\n\n\nextra:\n  palette:\n    primary: 'indigo'\n    accent: 'light blue'\n\n\n\n\nColor names can be written upper- or lowercase but must match the names of the\nmaterial design \ncolor palette\n. Valid values are: \nred\n, \npink\n, \npurple\n,\n\ndeep purple\n, \nindigo\n, \nblue\n, \nlight blue\n, \ncyan\n, \nteal\n, \ngreen\n, \nlight\ngreen\n, \nlime\n, \nyellow\n, \namber\n, \norange\n, \ndeep orange\n, \nbrown\n, \ngrey\n and\n\nblue grey\n. The last three colors can only be used as a primary color.\n\n\n\n\nIf the color is set via this configuration, an additional CSS file called\n\npalettes.css\n is included that defines the color palettes. If you want to\nkeep things lean, clone the repository and recompile the theme with your\ncustom colors set. See \nthis article\n for more information.\n\n\nChanging the font family\n#\n\n\nMaterial uses the \nUbuntu font family\n by default, specifically the regular\nsans-serif type for text and the monospaced type for code. Both fonts are\nloaded from \nGoogle Fonts\n and can be easily changed to other fonts, like for\nexample Google's own \nRoboto font\n:\n\n\nextra:\n  font:\n    text: 'Roboto'\n    code: 'Roboto Mono'\n\n\n\n\nThe text font will be loaded in font-weights 400 and \n700\n, the monospaced\nfont in regular weight. If you want to load fonts from other destinations or\ndon't want to use the Google Fonts loading magic, just set \nextra.font\n to\n\n'none'\n:\n\n\nextra:\n  font: 'none'\n\n\n\n\nLocalization\n#\n\n\nThe \nPrevious\n and \nNext\n labels in the footer can easily be changed by\ndefining the variables \nextra.i18n.prev\n and \nextra.i18n.next\n:\n\n\nextra:\n  i18n:\n    prev: 'Previous'\n    next: 'Next'\n\n\n\n\nAdding a GitHub and Twitter account\n#\n\n\nIf you have a GitHub and/or Twitter account, you can add links to your\naccounts to the drawer by setting the variables \nextra.author.github\n and\n\nextra.author.twitter\n respectively:\n\n\nextra:\n  author:\n    github: 'my-github-handle'\n    twitter: 'my-twitter-handle'\n\n\n\n\nGoogle Analytics integration\n#\n\n\nMaterial makes it easy to integrate site tracking with Google Analytics.\nBesides basic tracking, clicks on all outgoing links can be tracked, clicks on\nthe download and star button, as well as how site search is used. Tracking can\nbe activated in your project's \nmkdocs.yml\n:\n\n\ngoogle_analytics:\n  - 'UA-XXXXXXXX-X'\n  - 'auto'\n\n\n\n\nMore advanced customization\n#\n\n\nIf you want to change the general appearance of the Material theme, see\n\nthis article\n for more information on advanced customization.\n\n\nExtensions\n#\n\n\nMkDocs supports several \nMarkdown extensions\n. The following extensions are\nnot enabled by default (see the link for which are enabled by default), so you\nhave to switch them on explicitly.\n\n\nCodeHilite (recommended)\n#\n\n\nThis extensions uses \nPygments\n (install with \npip install pygments\n) to add\ncode highlighting to fenced code blocks. It might not be the best code\nhighlighter, but it works without JavaScript and on the server:\n\n\nmarkdown_extensions:\n  - codehilite(css_class=code)\n\n\n\n\nIf you want more extensive highlighting, you can use a JavaScript library like\n\nhighlight.js\n, which is not included in Material. See \nthis link\n for\nfurther instructions\n\n\nPermalinks\n#\n\n\nIn order to add \npermalinks\n to the headers of your article, set the\n\nmarkdown_extensions.toc.permalink\n variable to a symbol, e.g. \n#\n:\n\n\nmarkdown_extensions:\n  - toc:\n    permalink: '#'\n\n\n\n\nThe symbol can be chosen freely, it can even be a WebFont icon.\n\n\nAdmonition\n#\n\n\nAdmonition\n is a handy extension that adds block-styled side content to your\ndocumentation, for example hints, notes or warnings. It can be enabled by\nsetting the variable \nmarkdown_extensions.admonition\n:\n\n\nmarkdown_extensions:\n  - admonition\n\n\n\n\nIn order to add a note, use the following syntax inside your article:\n\n\n!!! note\n    Nothing to see here, move along.\n\n\n\n\nThis will print the following block:\n\n\n\n\nNote\n\n\nNothing to see here, move along.\n\n\n\n\nThe Material template adds a neutral color for the \nnote\n class and a red color\nfor the \nwarning\n class. You can also add a custom title:\n\n\n!!! warning \"Don't try this at home\"\n    If you do, you will regret it.\n\n\n\n\nThis will print:\n\n\n\n\nDon't try this at home\n\n\nIf you do, you will regret it.\n\n\n\n\nMore colors can be freely defined.\n\n\nFull example\n#\n\n\nBelow is a full example configuration for a mkdocs.yml:\n\n\n# Project information\nsite_name: 'My Project'\nsite_description: 'A short description of my project'\nsite_author: 'John Doe'\nsite_url: 'https://my-github-handle.github.io/my-project'\n\n# Repository\nrepo_name: 'GitHub'\nrepo_url: 'https://github.com/my-github-handle/my-project'\n\n# Copyright\ncopyright: 'Copyright (c) 2016 John Doe'\n\n# Documentation and theme\ndocs_dir: 'docs'\ntheme: 'material'\n\n# Options\nextra:\n  version: '0.1.0'\n  logo: 'images/logo.png'\n  palette:\n    primary: 'indigo'\n    accent: 'light blue'\n  font:\n    text: 'Roboto'\n    code: 'Roboto Mono'\n  i18n:\n    prev: 'Previous'\n    next: 'Next'\n  author:\n    github: 'my-github-handle'\n    twitter: 'my-twitter-handle'\n\n# Google Analytics\ngoogle_analytics:\n  - 'UA-XXXXXXXX-X'\n  - 'auto'\n\n# Extensions\nmarkdown_extensions:\n  - codehilite(css_class=code)\n  - admonition\n  - toc:\n      permalink: '#'",
+            "title": "Hoofdstuk 1"
+        },
+        {
+            "location": "/getting-started/#getting-started",
+            "text": "",
+            "title": "Getting started"
+        },
+        {
+            "location": "/getting-started/#installation",
+            "text": "",
+            "title": "Installation"
+        },
+        {
+            "location": "/getting-started/#installing-mkdocs",
+            "text": "Before installing  MkDocs , you need to make sure you have Python and  pip \n\u2013 the Python package manager \u2013 up and running. Assuming you are a developer and\nhave a basic understanding of how things work and what StackOverflow is, we\nwon't provide guidelines on setting those up. You can verify if you're already\ngood to go with the following commands:  python --version\n# Python 2.7.2\npip --version\n# pip 1.5.2  Installing and verifying MkDocs is as simple as:  pip install mkdocs && mkdocs --version\n# mkdocs, version 0.15.2",
+            "title": "Installing MkDocs"
+        },
+        {
+            "location": "/getting-started/#installing-material",
+            "text": "Next, assuming you have MkDocs up and running  mkdocs-material  can be\ninstalled with  pip :  pip install mkdocs-material",
+            "title": "Installing Material"
+        },
+        {
+            "location": "/getting-started/#usage",
+            "text": "If you haven't already done it, creating a new documentation project is really\nsimple in MkDocs:  mkdocs new my-project\ncd my-project  MkDocs will create the necessary files and base directory structure inside the\nfolder  my-project . In order to enable the theme just add the following line\nto the auto-generated  mkdocs.yml :  theme: 'material'  If your project is hosted on GitHub, add the repository link to the\nconfiguration. If the  repo_name  equals  GitHub , the Material theme will\nadd a download and star button, and display the number of stars:  repo_name: 'GitHub'\nrepo_url: 'https://github.com/my-github-handle/my-project'  MkDocs includes a development server, so you can view your changes as you go -\nvery handy. Spin it up with the following command:  mkdocs serve  Now you can go to  localhost:8000  and the Material\ntheme should be visible. You can now start writing your documentation, or read\non and customize the theme through some options.",
+            "title": "Usage"
+        },
+        {
+            "location": "/getting-started/#options",
+            "text": "The Material theme adds some extra variables for configuration via your\nproject's  mkdocs.yml . See the following section for all available options.",
+            "title": "Options"
+        },
+        {
+            "location": "/getting-started/#adding-a-version",
+            "text": "In order to add the current version next to the project banner inside the\ndrawer, you can set the variable  extra.version :  extra:\n  version: '0.1.0'  This will also change the link behind the download button to point to the\narchive with the respective version on GitHub, assuming a release tagged with\nthis exact version identifier.",
+            "title": "Adding a version"
+        },
+        {
+            "location": "/getting-started/#adding-a-logo",
+            "text": "If your project has a logo, you can add it to the drawer/navigation by defining\nthe variable  extra.logo . Ideally, the image of your logo should have\nrectangular shape with a minimum resolution of 128x128 and leave some room\ntowards the edges. The logo will also be used as a web application icon on iOS.\nSimply create the folder  docs/images , add your image and reference it via:  extra:\n  logo: 'images/logo.png'",
+            "title": "Adding a logo"
+        },
+        {
+            "location": "/getting-started/#link-to-github-releases-page",
+            "text": "If your project has a GitHub url configured, the default behavior is that a\ndownlink button is displayed, linking to the source download of the given extra.version  or  master  branch. To link to the releases page instead,\nset  extra.github.download_release  to  true . It will link to the release of\nthe given  extra.version  or when no  extra.version  is given, the latest\nrelease:  repo_name: GitHub\nrepo_url: https://github.com/squidfunk/mkdocs-material\n\nextra:\n  github:\n    download_release: true",
+            "title": "Link to GitHub releases page"
+        },
+        {
+            "location": "/getting-started/#changing-the-color-palette",
+            "text": "Material defines a default hue for every primary and accent color on Google's\nmaterial design  color palette . This makes it very easy to change the\noverall look of the theme. Just set the variables  extra.palette.primary  and extra.palette.accent  to one of the colors defined in the palette:  extra:\n  palette:\n    primary: 'indigo'\n    accent: 'light blue'  Color names can be written upper- or lowercase but must match the names of the\nmaterial design  color palette . Valid values are:  red ,  pink ,  purple , deep purple ,  indigo ,  blue ,  light blue ,  cyan ,  teal ,  green ,  light\ngreen ,  lime ,  yellow ,  amber ,  orange ,  deep orange ,  brown ,  grey  and blue grey . The last three colors can only be used as a primary color.   If the color is set via this configuration, an additional CSS file called palettes.css  is included that defines the color palettes. If you want to\nkeep things lean, clone the repository and recompile the theme with your\ncustom colors set. See  this article  for more information.",
+            "title": "Changing the color palette"
+        },
+        {
+            "location": "/getting-started/#changing-the-font-family",
+            "text": "Material uses the  Ubuntu font family  by default, specifically the regular\nsans-serif type for text and the monospaced type for code. Both fonts are\nloaded from  Google Fonts  and can be easily changed to other fonts, like for\nexample Google's own  Roboto font :  extra:\n  font:\n    text: 'Roboto'\n    code: 'Roboto Mono'  The text font will be loaded in font-weights 400 and  700 , the monospaced\nfont in regular weight. If you want to load fonts from other destinations or\ndon't want to use the Google Fonts loading magic, just set  extra.font  to 'none' :  extra:\n  font: 'none'",
+            "title": "Changing the font family"
+        },
+        {
+            "location": "/getting-started/#localization",
+            "text": "The  Previous  and  Next  labels in the footer can easily be changed by\ndefining the variables  extra.i18n.prev  and  extra.i18n.next :  extra:\n  i18n:\n    prev: 'Previous'\n    next: 'Next'",
+            "title": "Localization"
+        },
+        {
+            "location": "/getting-started/#adding-a-github-and-twitter-account",
+            "text": "If you have a GitHub and/or Twitter account, you can add links to your\naccounts to the drawer by setting the variables  extra.author.github  and extra.author.twitter  respectively:  extra:\n  author:\n    github: 'my-github-handle'\n    twitter: 'my-twitter-handle'",
+            "title": "Adding a GitHub and Twitter account"
+        },
+        {
+            "location": "/getting-started/#google-analytics-integration",
+            "text": "Material makes it easy to integrate site tracking with Google Analytics.\nBesides basic tracking, clicks on all outgoing links can be tracked, clicks on\nthe download and star button, as well as how site search is used. Tracking can\nbe activated in your project's  mkdocs.yml :  google_analytics:\n  - 'UA-XXXXXXXX-X'\n  - 'auto'",
+            "title": "Google Analytics integration"
+        },
+        {
+            "location": "/getting-started/#more-advanced-customization",
+            "text": "If you want to change the general appearance of the Material theme, see this article  for more information on advanced customization.",
+            "title": "More advanced customization"
+        },
+        {
+            "location": "/getting-started/#extensions",
+            "text": "MkDocs supports several  Markdown extensions . The following extensions are\nnot enabled by default (see the link for which are enabled by default), so you\nhave to switch them on explicitly.",
+            "title": "Extensions"
+        },
+        {
+            "location": "/getting-started/#codehilite-recommended",
+            "text": "This extensions uses  Pygments  (install with  pip install pygments ) to add\ncode highlighting to fenced code blocks. It might not be the best code\nhighlighter, but it works without JavaScript and on the server:  markdown_extensions:\n  - codehilite(css_class=code)  If you want more extensive highlighting, you can use a JavaScript library like highlight.js , which is not included in Material. See  this link  for\nfurther instructions",
+            "title": "CodeHilite (recommended)"
+        },
+        {
+            "location": "/getting-started/#permalinks",
+            "text": "In order to add  permalinks  to the headers of your article, set the markdown_extensions.toc.permalink  variable to a symbol, e.g.  # :  markdown_extensions:\n  - toc:\n    permalink: '#'  The symbol can be chosen freely, it can even be a WebFont icon.",
+            "title": "Permalinks"
+        },
+        {
+            "location": "/getting-started/#admonition",
+            "text": "Admonition  is a handy extension that adds block-styled side content to your\ndocumentation, for example hints, notes or warnings. It can be enabled by\nsetting the variable  markdown_extensions.admonition :  markdown_extensions:\n  - admonition  In order to add a note, use the following syntax inside your article:  !!! note\n    Nothing to see here, move along.  This will print the following block:   Note  Nothing to see here, move along.   The Material template adds a neutral color for the  note  class and a red color\nfor the  warning  class. You can also add a custom title:  !!! warning \"Don't try this at home\"\n    If you do, you will regret it.  This will print:   Don't try this at home  If you do, you will regret it.   More colors can be freely defined.",
+            "title": "Admonition"
+        },
+        {
+            "location": "/getting-started/#full-example",
+            "text": "Below is a full example configuration for a mkdocs.yml:  # Project information\nsite_name: 'My Project'\nsite_description: 'A short description of my project'\nsite_author: 'John Doe'\nsite_url: 'https://my-github-handle.github.io/my-project'\n\n# Repository\nrepo_name: 'GitHub'\nrepo_url: 'https://github.com/my-github-handle/my-project'\n\n# Copyright\ncopyright: 'Copyright (c) 2016 John Doe'\n\n# Documentation and theme\ndocs_dir: 'docs'\ntheme: 'material'\n\n# Options\nextra:\n  version: '0.1.0'\n  logo: 'images/logo.png'\n  palette:\n    primary: 'indigo'\n    accent: 'light blue'\n  font:\n    text: 'Roboto'\n    code: 'Roboto Mono'\n  i18n:\n    prev: 'Previous'\n    next: 'Next'\n  author:\n    github: 'my-github-handle'\n    twitter: 'my-twitter-handle'\n\n# Google Analytics\ngoogle_analytics:\n  - 'UA-XXXXXXXX-X'\n  - 'auto'\n\n# Extensions\nmarkdown_extensions:\n  - codehilite(css_class=code)\n  - admonition\n  - toc:\n      permalink: '#'",
+            "title": "Full example"
+        },
+        {
+            "location": "/customization/",
+            "text": "Customization\n#\n\n\nA good starting point\n#\n\n\nProject documentation is as diverse as the projects themselves and the Material\ntheme is a good starting point for making it look good. However, as you write\nyour documentation, you may reach some point where some small adjustments are\nnecessary to preserve the style.\n\n\nSmall tweaks\n#\n\n\nMkDocs\n provides a simple way for making small adjustments, that is changing\nsome margins, centering text, etc. Simply put the CSS and Javascript files that\ncontain your adjustments in the \ndocs\n directory (ideally in subdirectories of\ntheir own) and include them via the \nextra_css\n and \nextra_javascript\n\nvariables in your \nmkdocs.yml\n:\n\n\nextra_css: ['/stylesheets/extra.css']\nextra_javascript: ['/javascripts/extra.js']\n\n\n\n\nFurther assistance on including extra CSS and Javascript can be found in the\n\nMkDocs documentation\n.\n\n\nFundamental changes\n#\n\n\nIf you want to make larger adjustments like changing the color palette or\ntypography, you should check out or download the repository of the project and\ncompile the SASS sources with your changes. The project design is very modular,\nso most things can be tweaked by changing a few variables.\n\n\nSetup\n#\n\n\nIn order to compile the project, you need \nnode\n with a version greater than\n\n0.11\n up and running. Then, make sure \nbower\n is installed or install it:\n\n\nnpm install -g bower\n\n\n\n\nThe project itself is hosted on GitHub, so the next\nthing you should do is clone the project from GitHub:\n\n\ngit clone https://github.com/squidfunk/mkdocs-material\n\n\n\n\nThen you change the directory and install all dependencies specified in the\n\npackage.json\n and \nbower.json\n with the following command:\n\n\ncd mkdocs-material\nnpm install && bower install\n\n\n\n\nDevelopment\n#\n\n\nThe asset pipeline is contained in \nGulpfile.js\n, which you can start with\n\ngulp watch\n. If you specify the \n--mkdocs\n flag, this will also run\n\nmkdocs serve\n, to monitor changes to the documentation. Point your browser to \nlocalhost:8000\n and you should see this very\ndocumentation in front of your eyes.\n\n\ngulp watch --mkdocs\n\n\n\n\nFor example, changing the color palette is as simple as changing the \n$primary\n\nand \n$accent\n variables in \nsrc/assets/stylesheets/_palette.scss\n:\n\n\n$primary: $red-400;\n$accent:  $teal-a700;\n\n\n\n\nThe color variables are defined by the SASS library \nquantum-colors\n and\nresemble all the colors contained in the material design palette.\n\nThis page\n offers a really good overview of the palette.\n\n\nBuilding\n#\n\n\nWhen you finished making your changes, you can build the theme by invoking:\n\n\ngulp build --production\n\n\n\n\nThe \n--production\n flag triggers the production-level compilation and\nminification of all CSS and Javascript sources. When the command is ready,\nthe final theme is located in the \nmaterial\n directory. Add the \ntheme_dir\n\nvariable pointing to the aforementioned directory in your original\n\nmkdocs.yml\n:\n\n\ntheme_dir: 'mkdocs-material/material'\n\n\n\n\nNow you can run \nmkdocs build\n and you should see your documentation with your\nchanges to the original Material theme.",
+            "title": "Hoofdstuk 2"
+        },
+        {
+            "location": "/customization/#customization",
+            "text": "",
+            "title": "Customization"
+        },
+        {
+            "location": "/customization/#a-good-starting-point",
+            "text": "Project documentation is as diverse as the projects themselves and the Material\ntheme is a good starting point for making it look good. However, as you write\nyour documentation, you may reach some point where some small adjustments are\nnecessary to preserve the style.",
+            "title": "A good starting point"
+        },
+        {
+            "location": "/customization/#small-tweaks",
+            "text": "MkDocs  provides a simple way for making small adjustments, that is changing\nsome margins, centering text, etc. Simply put the CSS and Javascript files that\ncontain your adjustments in the  docs  directory (ideally in subdirectories of\ntheir own) and include them via the  extra_css  and  extra_javascript \nvariables in your  mkdocs.yml :  extra_css: ['/stylesheets/extra.css']\nextra_javascript: ['/javascripts/extra.js']  Further assistance on including extra CSS and Javascript can be found in the MkDocs documentation .",
+            "title": "Small tweaks"
+        },
+        {
+            "location": "/customization/#fundamental-changes",
+            "text": "If you want to make larger adjustments like changing the color palette or\ntypography, you should check out or download the repository of the project and\ncompile the SASS sources with your changes. The project design is very modular,\nso most things can be tweaked by changing a few variables.",
+            "title": "Fundamental changes"
+        },
+        {
+            "location": "/customization/#setup",
+            "text": "In order to compile the project, you need  node  with a version greater than 0.11  up and running. Then, make sure  bower  is installed or install it:  npm install -g bower  The project itself is hosted on GitHub, so the next\nthing you should do is clone the project from GitHub:  git clone https://github.com/squidfunk/mkdocs-material  Then you change the directory and install all dependencies specified in the package.json  and  bower.json  with the following command:  cd mkdocs-material\nnpm install && bower install",
+            "title": "Setup"
+        },
+        {
+            "location": "/customization/#development",
+            "text": "The asset pipeline is contained in  Gulpfile.js , which you can start with gulp watch . If you specify the  --mkdocs  flag, this will also run mkdocs serve , to monitor changes to the documentation. Point your browser to  localhost:8000  and you should see this very\ndocumentation in front of your eyes.  gulp watch --mkdocs  For example, changing the color palette is as simple as changing the  $primary \nand  $accent  variables in  src/assets/stylesheets/_palette.scss :  $primary: $red-400;\n$accent:  $teal-a700;  The color variables are defined by the SASS library  quantum-colors  and\nresemble all the colors contained in the material design palette. This page  offers a really good overview of the palette.",
+            "title": "Development"
+        },
+        {
+            "location": "/customization/#building",
+            "text": "When you finished making your changes, you can build the theme by invoking:  gulp build --production  The  --production  flag triggers the production-level compilation and\nminification of all CSS and Javascript sources. When the command is ready,\nthe final theme is located in the  material  directory. Add the  theme_dir \nvariable pointing to the aforementioned directory in your original mkdocs.yml :  theme_dir: 'mkdocs-material/material'  Now you can run  mkdocs build  and you should see your documentation with your\nchanges to the original Material theme.",
+            "title": "Building"
+        },
+        {
+            "location": "/license/",
+            "text": "Licentie\n#\n\n\nMIT License\n\n\nCopyright (c) 2016 Martin Donath\n\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to\ndeal in the Software without restriction, including without limitation the\nrights to use, copy, modify, merge, publish, distribute, sublicense, and/or\nsell copies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS\nIN THE SOFTWARE.",
+            "title": "Licentie"
+        },
+        {
+            "location": "/license/#licentie",
+            "text": "MIT License  Copyright (c) 2016 Martin Donath  Permission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to\ndeal in the Software without restriction, including without limitation the\nrights to use, copy, modify, merge, publish, distribute, sublicense, and/or\nsell copies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS\nIN THE SOFTWARE.",
+            "title": "Licentie"
+        }
+    ]
+}
