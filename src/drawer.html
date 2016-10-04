@@ -1,0 +1,51 @@
+<!-- Navigation -->
+<nav aria-label="Navigation">
+
+  <!-- Project information -->
+  <a href="https://rodymol123.github.io/pws-project/" class="project">
+
+    <!-- Name and logo -->
+    <div class="banner">
+      <!-- Project name -->
+      <div class="name">
+        <strong>
+          {{ site_name }}
+        </strong><br>
+        <span class="description">Profielwerkstuk HAVO</span>
+      </div>
+    </div>
+  </a>
+
+  <!-- Repository and table of contents -->
+  <div class="scrollable">
+    <div class="wrapper">
+
+      <!-- Table of contents -->
+      <div class="toc">
+        <ul>
+          {% for nav_item in nav %}
+            {% include "nav.html" %}
+          {% endfor %}
+        </ul>
+
+        <!-- Author-related links -->
+          <hr />
+          <span class="section">De auteurs</span>
+          <ul>
+
+            <!-- Authors  -->
+              <li>
+                <a href="mailto:rody.molenaar@xtrada.nl" target="_blank"
+                  title="rody.molenaar@xtrada.nl">
+                  Rody Molenaar
+                </a>
+                <a href="#" target="_blank"
+                  title="#">
+                  Simon van Wonderen
+                </a>
+              </li>
+          </ul>
+      </div>
+    </div>
+  </div>
+</nav>
