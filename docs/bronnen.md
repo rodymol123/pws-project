@@ -1,4 +1,26 @@
 # Bronnen
+Bronnen moeten nog vermeld worden volgens de APA-richtlijnen.
+```
+http://www.europa-nu.nl/id/vg8wpxh23yz5/europese_unie_eu?ksel=n3
+```
+```
+https://nl.m.wikipedia.org/wiki/Europese_Gemeenschap
+```
+```
+https://nl.m.wikipedia.org/wiki/Europese_Economische_Gemeenschap
+```
+```
+https://nl.m.wikipedia.org/wiki/Europese_Gemeenschap_voor_Kolen_en_Staal
+```
+```
+https://www.europa-nu.nl/id/vh25de46n2zn/titel_vi_bepalingen_inzake_politiele_en
+```
+```
+https://nl.wikipedia.org/wiki/Gemeenschappelijk_buitenlands_en_veiligheidsbeleid
+```
+```
+https://nl.wikipedia.org/wiki/Gemeenschappelijk_landbouwbeleid
+```
 ```
 http://www.volkskrant.nl/archief/grote-landen-willen-meer-macht-in-eu~a575146/
 ```
