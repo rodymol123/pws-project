@@ -47,7 +47,13 @@ markdown_extensions:
 
 # Page tree
 pages:
-  - Introductie: index.md
-  - Hoofdstuk 1: getting-started.md
-  - Hoofdstuk 2: customization.md
-  - Licentie: license.md
+  - Over dit profielwerkstuk: index.md
+  - Inleiding: inleiding.md
+  - Voorgeschiedenis: voorgeschiedenis.md
+  - Voorlopers van de EU: voorlopers-eu.md
+  - Doelen: doelen.md
+  - Belangrijke initiatieven: belangrijke-initiatieven.md
+  - Verhoudingen: verhoudingen.md
+  - Conclusie: conclusie.md
+  - Bronnen: bronnen.md
+  - Licentie: licentie.md
