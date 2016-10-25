@@ -1,143 +1,168 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "Over dit profielwerkstuk\n#\n\n\nDe schrijvers\n#\n\n\n\n\nRody Molenaar\n\n\nSimon van Wonderen\n\n\n\n\nProfiel\n#\n\n\nDit werkstuk is gemaakt voor het vak Geschiedenis in het profiel EM.\n\n\nSchool en klas\n#\n\n\nOostvaarders College, 5H3\n\n\nBegeleider\n#\n\n\nDhr. P. Eilering\n\n\nDatum\n#\n\n\n25 Oktober 2016", 
+            "location": "/",
+            "text": "Over dit profielwerkstuk\n#\n\n\nAlgemeen\n#\n\n\nDe schrijvers\n#\n\n\n\n\nRody Molenaar\n\n\nSimon van Wonderen\n\n\n\n\nProfiel\n#\n\n\nDit werkstuk is gemaakt voor het vak Geschiedenis in het profiel EM.\n\n\nSchool en klas\n#\n\n\nOostvaarders College, 5H3\n\n\nBegeleider\n#\n\n\nDhr. P. Eilering\n\n\nDatum\n#\n\n\n25 Oktober 2016\n\n\nBroncode\n#\n\n\nDe broncode voor dit profielwerkstuk is publiekelijk in te zien op \nGithub\n.\n\n\nGerealiseerd met\n#\n\n\n\n\nMkDocs\n\n\nMkDocs-Material",
             "title": "Over dit profielwerkstuk"
-        }, 
+        },
         {
-            "location": "/#over-dit-profielwerkstuk", 
-            "text": "", 
+            "location": "/#over-dit-profielwerkstuk",
+            "text": "",
             "title": "Over dit profielwerkstuk"
-        }, 
+        },
         {
-            "location": "/#de-schrijvers", 
-            "text": "Rody Molenaar  Simon van Wonderen", 
-            "title": "De schrijvers"
-        }, 
-        {
-            "location": "/#profiel", 
-            "text": "Dit werkstuk is gemaakt voor het vak Geschiedenis in het profiel EM.", 
-            "title": "Profiel"
-        }, 
-        {
-            "location": "/#school-en-klas", 
-            "text": "Oostvaarders College, 5H3", 
-            "title": "School en klas"
-        }, 
-        {
-            "location": "/#begeleider", 
-            "text": "Dhr. P. Eilering", 
-            "title": "Begeleider"
-        }, 
-        {
-            "location": "/#datum", 
-            "text": "25 Oktober 2016", 
-            "title": "Datum"
-        }, 
-        {
-            "location": "/inleiding/", 
-            "text": "Inleiding\n#", 
-            "title": "Inleiding"
-        }, 
-        {
-            "location": "/inleiding/#inleiding", 
-            "text": "", 
-            "title": "Inleiding"
-        }, 
-        {
-            "location": "/voorgeschiedenis/", 
-            "text": "Voorgeschiedenis\n#\n\n\nDe Tweede Wereldoorlog bracht grote vernielingen met zich mee in heel Europa. Grote delen van steden zoals bijvoorbeeld \nBerlijn en Rotterdam lagen in puin. Om aan de wederopbouw te kunnen beginnen waren middelen nodig, zowel geld als grondstof \nwaren belangrijk om nieuwe huisvesting en industrie te bouwen en de economie weer op gang te helpen.\n\n\nDe Verenigde Staten hielp de Europese landen weer op de been doormiddel van financi\u00eble hulp onder het Marshallplan.\nVernoemd naar de initiatiefnemer, George C. Marshall, de toenmalige minister van Buitenlandse Zaken.\n\n\nJean Monnet ging over het Franse moderniseringsplan en realiseerde zich dat Frankrijk een langere periode van stabiliteit\nnodig had. Hij zocht toenadering tot de Duisters, om kolen en ijzererts te delen. Dit plan werd door de toenmalige Franse \npremier afgeslagen, maar toch gerealiseerd met de hulp van de Franse minister van buitelandse zaken en de Duitse bondskanselier.\n\n\nEen fragment van een speech van Winston Churchill, op 19 september in Zurich:\n\n\n\n\n(...) To re-create the European Family, or as much of it as we can, and provide it with a structure under which it can\ndwell in peace, in safety and in freedom.\nWe must build a kind of United States of Europe.\n\n\n\n\nGeschiedenis van de Europese Unie. (z.d.). Geraadpleegd op 21 oktober 2016,\nhttps://nl.wikipedia.org/wiki/Geschiedenis_van_de_Europese_Unie", 
-            "title": "Voorgeschiedenis"
-        }, 
-        {
-            "location": "/voorgeschiedenis/#voorgeschiedenis", 
-            "text": "De Tweede Wereldoorlog bracht grote vernielingen met zich mee in heel Europa. Grote delen van steden zoals bijvoorbeeld \nBerlijn en Rotterdam lagen in puin. Om aan de wederopbouw te kunnen beginnen waren middelen nodig, zowel geld als grondstof \nwaren belangrijk om nieuwe huisvesting en industrie te bouwen en de economie weer op gang te helpen.  De Verenigde Staten hielp de Europese landen weer op de been doormiddel van financi\u00eble hulp onder het Marshallplan.\nVernoemd naar de initiatiefnemer, George C. Marshall, de toenmalige minister van Buitenlandse Zaken.  Jean Monnet ging over het Franse moderniseringsplan en realiseerde zich dat Frankrijk een langere periode van stabiliteit\nnodig had. Hij zocht toenadering tot de Duisters, om kolen en ijzererts te delen. Dit plan werd door de toenmalige Franse \npremier afgeslagen, maar toch gerealiseerd met de hulp van de Franse minister van buitelandse zaken en de Duitse bondskanselier.  Een fragment van een speech van Winston Churchill, op 19 september in Zurich:   (...) To re-create the European Family, or as much of it as we can, and provide it with a structure under which it can\ndwell in peace, in safety and in freedom.\nWe must build a kind of United States of Europe.   Geschiedenis van de Europese Unie. (z.d.). Geraadpleegd op 21 oktober 2016,\nhttps://nl.wikipedia.org/wiki/Geschiedenis_van_de_Europese_Unie", 
-            "title": "Voorgeschiedenis"
-        }, 
-        {
-            "location": "/voorlopers-eu/", 
-            "text": "Voorlopers van de EU\n#\n\n\nDe EGKS\n#\n\n\nDe EGKS, of de Europese Gemeenschap van Kolen en Staal, had als doel ervoor te zorgen dat er vrede en rust bleef in Eurooooo , en het uitbreken van een nieuwe oorlog voorkomen.\nDit deden ze door de productie van staal, wat belangrijke middelen zijn voor het maken van wapens voor oorlog, \nonder het gezag te plaatsen van een gemeenschappelijke Hoge Autoriteit.", 
-            "title": "Voorlopers van de EU"
-        }, 
-        {
-            "location": "/voorlopers-eu/#voorlopers-van-de-eu", 
-            "text": "", 
-            "title": "Voorlopers van de EU"
-        }, 
-        {
-            "location": "/voorlopers-eu/#de-egks", 
-            "text": "De EGKS, of de Europese Gemeenschap van Kolen en Staal, had als doel ervoor te zorgen dat er vrede en rust bleef in Eurooooo , en het uitbreken van een nieuwe oorlog voorkomen.\nDit deden ze door de productie van staal, wat belangrijke middelen zijn voor het maken van wapens voor oorlog, \nonder het gezag te plaatsen van een gemeenschappelijke Hoge Autoriteit.", 
-            "title": "De EGKS"
-        }, 
-        {
-            "location": "/doelen/", 
-            "text": "Doelen\n#", 
-            "title": "Doelen"
-        }, 
-        {
-            "location": "/doelen/#doelen", 
-            "text": "", 
-            "title": "Doelen"
-        }, 
-        {
-            "location": "/belangrijke-initiatieven/", 
-            "text": "Belangrijke initiatieven\n#", 
-            "title": "Belangrijke initiatieven"
-        }, 
-        {
-            "location": "/belangrijke-initiatieven/#belangrijke-initiatieven", 
-            "text": "", 
-            "title": "Belangrijke initiatieven"
-        }, 
-        {
-            "location": "/verhoudingen/", 
-            "text": "Verhoudingen\n#\n\n\nAlgemeen\n#\n\n\nVerhoudingen na Brexit referendum\n#", 
-            "title": "Verhoudingen"
-        }, 
-        {
-            "location": "/verhoudingen/#verhoudingen", 
-            "text": "", 
-            "title": "Verhoudingen"
-        }, 
-        {
-            "location": "/verhoudingen/#algemeen", 
-            "text": "", 
+            "location": "/#algemeen",
+            "text": "",
             "title": "Algemeen"
-        }, 
+        },
         {
-            "location": "/verhoudingen/#verhoudingen-na-brexit-referendum", 
-            "text": "", 
+            "location": "/#de-schrijvers",
+            "text": "Rody Molenaar  Simon van Wonderen",
+            "title": "De schrijvers"
+        },
+        {
+            "location": "/#profiel",
+            "text": "Dit werkstuk is gemaakt voor het vak Geschiedenis in het profiel EM.",
+            "title": "Profiel"
+        },
+        {
+            "location": "/#school-en-klas",
+            "text": "Oostvaarders College, 5H3",
+            "title": "School en klas"
+        },
+        {
+            "location": "/#begeleider",
+            "text": "Dhr. P. Eilering",
+            "title": "Begeleider"
+        },
+        {
+            "location": "/#datum",
+            "text": "25 Oktober 2016",
+            "title": "Datum"
+        },
+        {
+            "location": "/#broncode",
+            "text": "De broncode voor dit profielwerkstuk is publiekelijk in te zien op  Github .",
+            "title": "Broncode"
+        },
+        {
+            "location": "/#gerealiseerd-met",
+            "text": "MkDocs  MkDocs-Material",
+            "title": "Gerealiseerd met"
+        },
+        {
+            "location": "/inleiding/",
+            "text": "Inleiding\n#\n\n\nOns profielwerkstuk gaat over de vorming van de Europese Unie. Wij hebben tot dit onderwerp besloten, omdat wij zelf burgers van de Europese Unie zijn en ons afvragen of de Europese Unie nog wel stabiel is. Om erachter te komen of de EU stabiel is moeten wij terug in de tijd om de basisprincipes van dit ingewikkelde politieke orgaan te ontdekken en te begrijpen.\n\n\nWij zullen kijken naar de voorlopers van de EU alsmede haar doelen en belangrijke initiatieven van haar lidstaten om te begrijpen hoe de EU in haar huidige vorm tot stand is gekomen.\n\n\nVerders gaan wij kijken naar de verhoudingen tussen een aantal lidstaten door de jaren heen en hoe en of deze zijn veranderd na het recente Brexit referendum en de vluchtelingencrisis.\n\n\nWij stelden ons zelf aanvankelijk de volgende vragen, maar kwamen ook met nieuwe vragen tijdens ons onderzoek:\n\n\n\n\nHoe is de Europese Unie tot stand gekomen en hoe stabiel is het?\n\n\nOm welke redenen werd de EGKS opgericht?\n\n\nWelk resultaat over de lange termijn had men als doelstelling en hoe wilden zij deze behalen?\n\n\nWelke personen en gebeurtenissen zijn belangrijk geweest voor de totstandkoming van de Europese Unie?\n\n\nHoe heeft de Europese Unie bijgedragen aan de vrede op het continent?\n\n\nHoe is de Europese Unie het politieke orgaan geworden, dat het nu is?\n\n\nHoe zijn de Europese verhoudingen na de angst voor het vertrek en het vertrek van het VK uit de Europese Unie?",
+            "title": "Inleiding"
+        },
+        {
+            "location": "/inleiding/#inleiding",
+            "text": "Ons profielwerkstuk gaat over de vorming van de Europese Unie. Wij hebben tot dit onderwerp besloten, omdat wij zelf burgers van de Europese Unie zijn en ons afvragen of de Europese Unie nog wel stabiel is. Om erachter te komen of de EU stabiel is moeten wij terug in de tijd om de basisprincipes van dit ingewikkelde politieke orgaan te ontdekken en te begrijpen.  Wij zullen kijken naar de voorlopers van de EU alsmede haar doelen en belangrijke initiatieven van haar lidstaten om te begrijpen hoe de EU in haar huidige vorm tot stand is gekomen.  Verders gaan wij kijken naar de verhoudingen tussen een aantal lidstaten door de jaren heen en hoe en of deze zijn veranderd na het recente Brexit referendum en de vluchtelingencrisis.  Wij stelden ons zelf aanvankelijk de volgende vragen, maar kwamen ook met nieuwe vragen tijdens ons onderzoek:   Hoe is de Europese Unie tot stand gekomen en hoe stabiel is het?  Om welke redenen werd de EGKS opgericht?  Welk resultaat over de lange termijn had men als doelstelling en hoe wilden zij deze behalen?  Welke personen en gebeurtenissen zijn belangrijk geweest voor de totstandkoming van de Europese Unie?  Hoe heeft de Europese Unie bijgedragen aan de vrede op het continent?  Hoe is de Europese Unie het politieke orgaan geworden, dat het nu is?  Hoe zijn de Europese verhoudingen na de angst voor het vertrek en het vertrek van het VK uit de Europese Unie?",
+            "title": "Inleiding"
+        },
+        {
+            "location": "/voorgeschiedenis/",
+            "text": "Voorgeschiedenis\n#\n\n\nDe Tweede Wereldoorlog bracht grote vernielingen met zich mee in heel Europa. Grote delen van steden zoals bijvoorbeeld\nBerlijn en Rotterdam lagen in puin. Om aan de wederopbouw te kunnen beginnen waren middelen nodig, zowel geld als grondstof\nwaren belangrijk om nieuwe huisvesting en industrie te bouwen en de economie weer op gang te helpen.\n\n\nDe Verenigde Staten hielp de Europese landen weer op de been doormiddel van financi\u00eble hulp onder het Marshallplan.\nVernoemd naar de initiatiefnemer, George C. Marshall, de toenmalige minister van Buitenlandse Zaken.\n\n\nJean Monnet ging over het Franse moderniseringsplan en realiseerde zich dat Frankrijk een langere periode van stabiliteit\nnodig had. Hij zocht toenadering tot de Duisters, om kolen en ijzererts te delen. Dit plan werd door de toenmalige Franse\npremier afgeslagen, maar toch gerealiseerd met de hulp van de Franse minister van buitelandse zaken en de Duitse bondskanselier.\n\n\nEen fragment van een speech van Winston Churchill, op 19 september 1946 in Zurich:\n\n\n\n\n(...) To re-create the European Family, or as much of it as we can, and provide it with a structure under which it can\ndwell in peace, in safety and in freedom.\nWe must build a kind of United States of Europe.",
+            "title": "Voorgeschiedenis"
+        },
+        {
+            "location": "/voorgeschiedenis/#voorgeschiedenis",
+            "text": "De Tweede Wereldoorlog bracht grote vernielingen met zich mee in heel Europa. Grote delen van steden zoals bijvoorbeeld\nBerlijn en Rotterdam lagen in puin. Om aan de wederopbouw te kunnen beginnen waren middelen nodig, zowel geld als grondstof\nwaren belangrijk om nieuwe huisvesting en industrie te bouwen en de economie weer op gang te helpen.  De Verenigde Staten hielp de Europese landen weer op de been doormiddel van financi\u00eble hulp onder het Marshallplan.\nVernoemd naar de initiatiefnemer, George C. Marshall, de toenmalige minister van Buitenlandse Zaken.  Jean Monnet ging over het Franse moderniseringsplan en realiseerde zich dat Frankrijk een langere periode van stabiliteit\nnodig had. Hij zocht toenadering tot de Duisters, om kolen en ijzererts te delen. Dit plan werd door de toenmalige Franse\npremier afgeslagen, maar toch gerealiseerd met de hulp van de Franse minister van buitelandse zaken en de Duitse bondskanselier.  Een fragment van een speech van Winston Churchill, op 19 september 1946 in Zurich:   (...) To re-create the European Family, or as much of it as we can, and provide it with a structure under which it can\ndwell in peace, in safety and in freedom.\nWe must build a kind of United States of Europe.",
+            "title": "Voorgeschiedenis"
+        },
+        {
+            "location": "/voorlopers-eu/",
+            "text": "Voorlopers van de EU\n#\n\n\nDe EGKS\n#\n\n\nDe EGKS, of de Europese Gemeenschap van Kolen en Staal, had als doel ervoor te zorgen dat er vrede en rust bleef in Eurooooo , en het uitbreken van een nieuwe oorlog voorkomen.\nDit deden ze door de productie van staal, wat belangrijke middelen zijn voor het maken van wapens voor oorlog, \nonder het gezag te plaatsen van een gemeenschappelijke Hoge Autoriteit.",
+            "title": "Voorlopers van de EU"
+        },
+        {
+            "location": "/voorlopers-eu/#voorlopers-van-de-eu",
+            "text": "",
+            "title": "Voorlopers van de EU"
+        },
+        {
+            "location": "/voorlopers-eu/#de-egks",
+            "text": "De EGKS, of de Europese Gemeenschap van Kolen en Staal, had als doel ervoor te zorgen dat er vrede en rust bleef in Eurooooo , en het uitbreken van een nieuwe oorlog voorkomen.\nDit deden ze door de productie van staal, wat belangrijke middelen zijn voor het maken van wapens voor oorlog, \nonder het gezag te plaatsen van een gemeenschappelijke Hoge Autoriteit.",
+            "title": "De EGKS"
+        },
+        {
+            "location": "/doelen/",
+            "text": "Doelen\n#",
+            "title": "Doelen"
+        },
+        {
+            "location": "/doelen/#doelen",
+            "text": "",
+            "title": "Doelen"
+        },
+        {
+            "location": "/belangrijke-initiatieven/",
+            "text": "Belangrijke initiatieven\n#",
+            "title": "Belangrijke initiatieven"
+        },
+        {
+            "location": "/belangrijke-initiatieven/#belangrijke-initiatieven",
+            "text": "",
+            "title": "Belangrijke initiatieven"
+        },
+        {
+            "location": "/verhoudingen/",
+            "text": "Verhoudingen\n#\n\n\nAlgemeen\n#\n\n\nVerhoudingen na Brexit referendum\n#",
+            "title": "Verhoudingen"
+        },
+        {
+            "location": "/verhoudingen/#verhoudingen",
+            "text": "",
+            "title": "Verhoudingen"
+        },
+        {
+            "location": "/verhoudingen/#algemeen",
+            "text": "",
+            "title": "Algemeen"
+        },
+        {
+            "location": "/verhoudingen/#verhoudingen-na-brexit-referendum",
+            "text": "",
             "title": "Verhoudingen na Brexit referendum"
-        }, 
+        },
         {
-            "location": "/conclusie/", 
-            "text": "Conclusie\n#", 
+            "location": "/conclusie/",
+            "text": "Conclusie\n#",
             "title": "Conclusie"
-        }, 
+        },
         {
-            "location": "/conclusie/#conclusie", 
-            "text": "", 
+            "location": "/conclusie/#conclusie",
+            "text": "",
             "title": "Conclusie"
-        }, 
+        },
         {
-            "location": "/bronnen/", 
-            "text": "Bronnen\n#", 
+            "location": "/interactieve-kaart-eu/",
+            "text": "Interactieve kaart\n#\n\n\nBinnenkort beschikbaar.",
+            "title": "Interactieve kaart"
+        },
+        {
+            "location": "/interactieve-kaart-eu/#interactieve-kaart",
+            "text": "Binnenkort beschikbaar.",
+            "title": "Interactieve kaart"
+        },
+        {
+            "location": "/bronnen/",
+            "text": "Bronnen\n#\n\n\nGeschiedenis van de Europese Unie. (z.d.). Geraadpleegd op 21 oktober 2016,\nhttps://nl.wikipedia.org/wiki/Geschiedenis_van_de_Europese_Unie\n\n\n\n\nGeschiedenis van de Europese Unie. (z.d.). Geraadpleegd op 21 oktober 2016,\nhttps://nl.wikipedia.org/wiki/Geschiedenis_van_de_Europese_Unie",
             "title": "Bronnen"
-        }, 
+        },
         {
-            "location": "/bronnen/#bronnen", 
-            "text": "", 
+            "location": "/bronnen/#bronnen",
+            "text": "Geschiedenis van de Europese Unie. (z.d.). Geraadpleegd op 21 oktober 2016,\nhttps://nl.wikipedia.org/wiki/Geschiedenis_van_de_Europese_Unie  Geschiedenis van de Europese Unie. (z.d.). Geraadpleegd op 21 oktober 2016,\nhttps://nl.wikipedia.org/wiki/Geschiedenis_van_de_Europese_Unie",
             "title": "Bronnen"
-        }, 
+        },
         {
-            "location": "/licentie/", 
-            "text": "Licentie\n#\n\n\nMIT License\n\n\nCopyright (c) 2016 Martin Donath\n\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to\ndeal in the Software without restriction, including without limitation the\nrights to use, copy, modify, merge, publish, distribute, sublicense, and/or\nsell copies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS\nIN THE SOFTWARE.", 
+            "location": "/licentie/",
+            "text": "Licentie\n#\n\n\nMIT License\n\n\nCopyright (c) 2016 Rody Molenaar & Simon van Wonderen\n\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to\ndeal in the Software without restriction, including without limitation the\nrights to use, copy, modify, merge, publish, distribute, sublicense, and/or\nsell copies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS\nIN THE SOFTWARE.",
             "title": "Licentie"
-        }, 
+        },
         {
-            "location": "/licentie/#licentie", 
-            "text": "MIT License  Copyright (c) 2016 Martin Donath  Permission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to\ndeal in the Software without restriction, including without limitation the\nrights to use, copy, modify, merge, publish, distribute, sublicense, and/or\nsell copies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS\nIN THE SOFTWARE.", 
+            "location": "/licentie/#licentie",
+            "text": "MIT License  Copyright (c) 2016 Rody Molenaar & Simon van Wonderen  Permission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to\ndeal in the Software without restriction, including without limitation the\nrights to use, copy, modify, merge, publish, distribute, sublicense, and/or\nsell copies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS\nIN THE SOFTWARE.",
             "title": "Licentie"
         }
     ]
