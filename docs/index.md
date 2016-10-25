@@ -1,5 +1,7 @@
 # Over dit profielwerkstuk
 
+## Algemeen
+
 ### De schrijvers
 - Rody Molenaar
 - Simon van Wonderen
@@ -16,4 +18,9 @@ Dhr. P. Eilering
 ### Datum
 25 Oktober 2016
 
+## Broncode
+De broncode voor dit profielwerkstuk is publiekelijk in te zien op [Github](https://github.com/rodymol123/pws-project/).
 
+### Gerealiseerd met
+- [MkDocs](http://www.mkdocs.org/)
+- [MkDocs-Material](https://github.com/squidfunk/mkdocs-material)
