@@ -29,3 +29,9 @@ Op 23 Juni 2016 koos de bevolking van het Verenigd Koninkrijk voor een vertrek u
 Onderling in zijn de verhoudingen binnen het Verenigd Koninkrijk ook bekoeld geraakt, de vertegenwoordigers van Schotland zullen vrijwel zeker een tweede referendum voor afscheiding houden, bij het vorige referendum wilde de grote meerderheid blijven vanwege de Europese Unie.
 
 Landen waarvan men bang is dat zij ook de EU zouden kunnen verlaten na het vertrek van het Verenigd Koninkrijk zijn onder andere: Nederland, Frankrijk en Oostenrijk. Al deze landen leunen richting populistische en rechtse meerderheden welke veelal tegen de Europese Unie in zijn huidige vorm zijn.
+
+
+
+![Sentiment](/images/sentiment.svg)
+
+*Algemene tevredenheid EU per lidstaat*
